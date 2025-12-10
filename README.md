@@ -4,84 +4,83 @@ An interactive Power BI Health Analytics Dashboard visualizing BMI, steps, sleep
 
 ---
 
+## 🖼️ Main Dashboard Preview
+
+<p align="center">
+  <img src="/POWER BI PROJECT 12323325/BACKGROUND/Screenshot 2025-12-10 141723.png" 
+       alt="Main Dashboard Overview" 
+       width="800">
+</p>
+
+---
+
 ## 📊 Overview
 
-The **Health Analytics Project** is an advanced Power BI dashboard designed to turn raw wellness data into meaningful, interactive insights. It incorporates BMI levels, activity behavior, global workout habits, sleep patterns, calories, and heart rate to help users understand personal and population-level health trends.
+The **Health Analytics Project** is an advanced Power BI dashboard built to convert raw health data into interactive insights. It visualizes BMI, Steps, Sleep, Heart Rate, Calories, and global workout trends using DAX-driven KPIs, dynamic slicers, and multi-layered visuals.
 
-This project demonstrates strong skills in **data modeling, DAX, ETL, interactive visualization, and BI storytelling**.
+This project demonstrates expertise in **Power BI, data modeling, ETL, dashboard UI/UX, and analytics storytelling**.
+
+---
+
+## 📚 Pages (Screenshots)
+
+### **📄 Page 1**
+<p align="center">
+  <img src="/POWER BI PROJECT 12323325/PAGES/Screenshot 2025-12-10 141723.png" 
+       alt="Page 1"
+       width="750">
+</p>
+
+### **📄 Page 2**
+<p align="center">
+  <img src="/POWER BI PROJECT 12323325/PAGES/Screenshot 2025-12-10 141853.png" 
+       alt="Page 2"
+       width="750">
+</p>
+
+### **📄 Page 3**
+<p align="center">
+  <img src="/POWER BI PROJECT 12323325/PAGES/Screenshot 2025-12-10 141935.png" 
+       alt="Page 3"
+       width="750">
+</p>
 
 ---
 
 ## 🚀 Features
 
-### 🔹 Interactive Visuals
-- Dynamic slicers for BMI, gender, activity level, country, and more  
-- Cross-filtering between all charts  
-- Hover-based tooltips for deeper insights  
-- Drill-down and drill-through interactions  
-
-### 🔹 KPI Highlights
-- Average Steps  
-- Sleep Duration  
-- Diabetic Percentage  
-- Smoker Percentage  
-- Total Individuals  
-
-### 🔹 Visualization Suite
-- Scatter Plot: **Steps vs Calories**  
-- World Map: **Global workout distribution**  
-- Donut & Bar Charts: **BMI & Activity segmentation**  
-- Line Chart: **Sleep vs Heart Rate**  
-- Radar, Funnel, and Lifestyle Pipeline visuals  
+- Dynamic slicers & advanced cross-filtering  
+- Drill-downs & hover-to-inspect insights  
+- KPI cards for Steps, Sleep, Heart Rate, Smoker %, Diabetic %, and Total Users  
+- Scatter plots, donut charts, map visuals, radar & funnel analysis  
+- Dark UI theme for enhanced visual readability  
 
 ---
 
 ## 🧠 Objectives
-1. Build a highly interactive BI dashboard for holistic wellness monitoring.  
-2. Visualize health and lifestyle indicators to reveal trends and risks.  
-3. Explore correlations between sleep, calories, steps, and heart rate.  
-4. Compare global workout categories and population behavior.  
-5. Deliver a visually engaging and intuitive insight-driven experience.
+
+1. Build a highly interactive health analytics dashboard.  
+2. Explore wellness patterns across BMI, activity, sleep, and calories.  
+3. Compare global workout habits by region.  
+4. Reveal correlations in lifestyle data.  
+5. Present insights through professional BI storytelling.  
 
 ---
 
 ## 🛠 Tech Stack
+
 - **Power BI Desktop**  
-- **Power Query** (M Language)  
+- **Power Query (M)**  
 - **DAX Measures**  
 - **CSV Dataset**  
-- **Custom Visuals & UI Design**  
+- Custom visuals & UI formatting  
 
 ---
 
----
-
-## 📈 Insights
-- BMI segments reveal obesity and overweight trends across populations.  
-- Sleep duration shows an inverse pattern with heart rate.  
-- Sedentary users have higher risk indicators (smoking, diabetic %).  
-- Steps and calories show strong correlation patterns.  
-- Global workout trends differ significantly by country.
-
----
-
-## ▶️ How to Use
-1. Download the `.pbix` file.  
-2. Open it in **Power BI Desktop**.  
-3. Interact with slicers and visuals to explore insights.  
-
----
-
-## 🧩 Skills Demonstrated
-- Advanced Power BI  
-- DAX Measures  
-- Data Cleaning & Transformation  
-- Correlation & Trend Analysis  
-- Dashboard UI/UX  
-- Health Data Analytics  
-
----
 
 ## 📬 Contact
-For collaboration, datasets, or PBIX access, feel free to connect.
+For PBIX access, collaboration, or improvements, feel free to connect.
 
+
+
+## 📁 Repository Structure
